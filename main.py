@@ -220,3 +220,96 @@ if myFunction():
   print("YES!")
 else:
   print("NO!")
+#operators
+a = 5
+b = 10
+print(a+b)
+print(a-b)
+print(a*b)
+print(a/b)
+print(a//b)
+print(a%b)
+print(a**b)
+
+#Assignment operators
+x = 5
+x += 5
+x -= 5
+x *= 5
+x /= 5
+x **= 5
+x //= 5
+x %= 5
+
+numbers = [1, 2, 3, 4, 5]
+
+if (count := len(numbers)) > 3: #walarus operator
+    print(f"List has {count} elements")
+    #Ternary operator
+num = 4
+x = "WEEKEND!" if num > 5 else "Workday"
+#if statement using ternary operator
+print(x)
+x = "Fri" if num == 5 else "Sat" if num == 6 else "Sun" if num == 7 else "weekday"
+print(x)
+
+#comparison operator
+x = 5
+y = 3
+
+print(x == y)
+print(x != y)
+print(x > y)
+print(x < y)
+print(x >= y)
+print(x <= y)
+
+#logical operators
+print(1 < x < 10)
+print(1 < x and x < 10)
+print(x < 5 or x > 10)
+print(not(x > 3 and x < 10))
+
+#identity Operators
+x = ["apple", "banana"]
+y = ["apple", "banana"]
+z = x
+print(x is z)
+print(x is y)
+print(x == y)
+print(x is not y)
+
+#membership operators
+fruits = ["apple", "banana", "cherry"]
+print("banana" in fruits)
+print("pineapple" not in fruits)
+print("apple" in fruits)
+
+#membership operators in strings
+text = "Hello World"
+print("H" in text)
+print("hello" in text)
+print("z" not in text)
+
+#Bitwise operator
+# The ^ operator compares each bit and set it to 1 if only one is 1, otherwise it is set to 0
+# 6 = 0110
+# 3 = 0011
+# --------
+# 5 = 0101
+
+print(6 ^ 3)
+# The | operator compares each bit and set it to 1 if one or both is 1, otherwise it is set to 0
+# 6 = 0110
+# 3 = 0011
+# --------
+# 7 = 0111
+
+print(6 | 3)
+# The & operator compares each bit and set it to 1 if both are 1, otherwise it is set to 0
+# 6 = 0110
+# 3 = 0011
+# --------
+# 2 = 0010
+
+print(6 & 3)
