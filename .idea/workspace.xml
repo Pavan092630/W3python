@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5d4d7c45-8a91-423e-9b84-88fbb2c000b5" name="Changes" comment="Still in strings">
+    <list default="true" id="5d4d7c45-8a91-423e-9b84-88fbb2c000b5" name="Changes" comment="completed untill operators in the w3 schools in main.py">
+      <change afterPath="$PROJECT_DIR$/animalMadLibs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/digitalRollerDice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/magicArtAdventure.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,63 +26,75 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="SIGN_OFF_COMMIT" value="true" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Pavan092630"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Pavan092630/W3python.git",
+    "accountId": "31401420-1125-4f53-9b14-5f784fc05ac3"
+  }
+}]]></component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0000000000000013" />
-      <entry key="MS500" value="1.0010612645141856" />
-      <entry key="S2" value="1.180491149440312" />
-      <entry key="S5" value="1.5041762302195405" />
-      <entry key="S10" value="1.7101568052810934" />
-      <entry key="S30" value="2.044619082822405" />
-      <entry key="S60" value="3.1356908513392403" />
-      <entry key="M2" value="5.903621545416071" />
-      <entry key="M5" value="11.942833810020192" />
-      <entry key="M10" value="18.737669306476374" />
-      <entry key="M15" value="24.645857447426103" />
-      <entry key="M30" value="44.86623005665409" />
-      <entry key="H1" value="89.4758912850527" />
-      <entry key="H2" value="150.18406291861072" />
-      <entry key="H4" value="203.85319981754964" />
-      <entry key="D1" value="268.9896364822293" />
-      <entry key="W1" value="282.6424793303513" />
+      <entry key="MS100" value="1.000000260899952" />
+      <entry key="MS500" value="1.0495074517529834" />
+      <entry key="S2" value="1.7878291963159958" />
+      <entry key="S5" value="3.440276239307469" />
+      <entry key="S10" value="6.012222944067101" />
+      <entry key="S30" value="11.248190838707458" />
+      <entry key="S60" value="13.963731817538566" />
+      <entry key="M2" value="16.948705707369037" />
+      <entry key="M5" value="23.55632215743585" />
+      <entry key="M10" value="31.271321562228906" />
+      <entry key="M15" value="37.662365340585474" />
+      <entry key="M30" value="58.20399819738943" />
+      <entry key="H1" value="102.81470556492705" />
+      <entry key="H2" value="164.1019927482855" />
+      <entry key="H4" value="218.7565254314625" />
+      <entry key="D1" value="285.5274220425292" />
+      <entry key="W1" value="299.573065903229" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
       <entry key="MS500" value="0.0" />
       <entry key="S2" value="0.0" />
-      <entry key="S5" value="2.9850792787196895E-284" />
-      <entry key="S10" value="2.2931124878933358E-142" />
-      <entry key="S30" value="9.56209032569978E-48" />
-      <entry key="S60" value="4.366407824613545E-24" />
-      <entry key="M2" value="3.000649441972435E-12" />
-      <entry key="M5" value="4.175184096823169E-5" />
-      <entry key="M10" value="0.010913643043829276" />
-      <entry key="M15" value="0.07331693509849484" />
-      <entry key="M30" value="0.6102176096201568" />
-      <entry key="H1" value="2.450428389489153" />
-      <entry key="H2" value="5.745292380599599" />
-      <entry key="H4" value="9.168049710778728" />
-      <entry key="D1" value="13.796025659468778" />
-      <entry key="W1" value="14.821214360646202" />
+      <entry key="S5" value="4.3918673518895786E-297" />
+      <entry key="S10" value="8.795732883323879E-149" />
+      <entry key="S30" value="6.947604150846117E-50" />
+      <entry key="S60" value="3.721906070339967E-25" />
+      <entry key="M2" value="8.760639649979107E-13" />
+      <entry key="M5" value="2.5515486421943745E-5" />
+      <entry key="M10" value="0.008531666216897117" />
+      <entry key="M15" value="0.06221766513186913" />
+      <entry key="M30" value="0.562133464389938" />
+      <entry key="H1" value="2.351902789571077" />
+      <entry key="H2" value="5.628605503249486" />
+      <entry key="H4" value="9.074470589339255" />
+      <entry key="D1" value="13.772455668224428" />
+      <entry key="W1" value="14.817594353848644" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.9460576467255971" />
-      <entry key="MS500" value="0.9900103403872337" />
-      <entry key="S2" value="1.1767865335165535" />
-      <entry key="S5" value="1.5020204937808472" />
-      <entry key="S10" value="1.708864205267362" />
-      <entry key="S30" value="2.041600801571311" />
-      <entry key="S60" value="3.1184458075098513" />
-      <entry key="M2" value="5.871132825473238" />
-      <entry key="M5" value="11.912587491936815" />
-      <entry key="M10" value="18.724875451620022" />
-      <entry key="M15" value="24.697357922978668" />
-      <entry key="M30" value="45.45535335909" />
-      <entry key="H1" value="91.90547608911774" />
-      <entry key="H2" value="155.91176622495084" />
-      <entry key="H4" value="213.00913802322208" />
-      <entry key="D1" value="282.78294430874354" />
-      <entry key="W1" value="297.4632839879413" />
+      <entry key="MS100" value="0.9526379983944075" />
+      <entry key="MS500" value="1.0044697909152864" />
+      <entry key="S2" value="1.6531224229304757" />
+      <entry key="S5" value="3.346901128208311" />
+      <entry key="S10" value="5.95550584571042" />
+      <entry key="S30" value="11.226264578284729" />
+      <entry key="S60" value="13.950835338904405" />
+      <entry key="M2" value="16.93337653828285" />
+      <entry key="M5" value="23.535467251578655" />
+      <entry key="M10" value="31.26012900487803" />
+      <entry key="M15" value="37.70527397487962" />
+      <entry key="M30" value="58.74630125284974" />
+      <entry key="H1" value="105.14640352694705" />
+      <entry key="H2" value="169.71326671562997" />
+      <entry key="H4" value="227.81895828096654" />
+      <entry key="D1" value="299.29715621004766" />
+      <entry key="W1" value="314.3902494667596" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -96,6 +110,9 @@
   "keyToString": {
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.animalMadLibs.executor": "Run",
+    "Python.digitalRollerDice.executor": "Run",
+    "Python.magicArtAdventure.executor": "Run",
     "Python.main.executor": "Run",
     "Python.strings.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -130,7 +147,8 @@
       <option name="presentableId" value="Default" />
       <updated>1786507005052</updated>
       <workItem from="1786507006050" duration="7564000" />
-      <workItem from="1786514826913" duration="6696000" />
+      <workItem from="1786514826913" duration="7453000" />
+      <workItem from="1786538761900" duration="778000" />
     </task>
     <task id="LOCAL-00001" summary="Still in strings">
       <option name="closed" value="true" />
@@ -164,7 +182,15 @@
       <option name="project" value="LOCAL" />
       <updated>1786518627990</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="completed untill operators in the w3 schools in main.py">
+      <option name="closed" value="true" />
+      <created>1786521969520</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1786521969520</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -173,10 +199,14 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT_PROFILE" value="Project Default" />
     <MESSAGE value="Still in strings" />
-    <option name="LAST_COMMIT_MESSAGE" value="Still in strings" />
+    <MESSAGE value="completed untill operators in the w3 schools in main.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="completed untill operators in the w3 schools in main.py" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/W3python$main.coverage" NAME="main Coverage Results" MODIFIED="1786521613978" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/W3python$main.coverage" NAME="main Coverage Results" MODIFIED="1786522521825" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/W3python$animalMadLibs.coverage" NAME="animalMadLibs Coverage Results" MODIFIED="1786539315667" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/W3python$digitalRollerDice.coverage" NAME="digitalRollerDice Coverage Results" MODIFIED="1786538819240" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/W3python$strings.coverage" NAME="strings Coverage Results" MODIFIED="1786515496042" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/W3python$magicArtAdventure.coverage" NAME="magicArtAdventure Coverage Results" MODIFIED="1786539110713" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
