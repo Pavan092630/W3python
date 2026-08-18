@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5d4d7c45-8a91-423e-9b84-88fbb2c000b5" name="Changes" comment="Added couple kid friendly game and story writer.">
-      <change afterPath="$PROJECT_DIR$/listTuplesSetsDict.py" afterDir="false" />
+    <list default="true" id="5d4d7c45-8a91-423e-9b84-88fbb2c000b5" name="Changes" comment="Finshed Untill lists in W3Schools">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/listTuplesSetsDict.py" beforeDir="false" afterPath="$PROJECT_DIR$/listTuplesSetsDict.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,60 +39,60 @@
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
       <entry key="MS100" value="1.0" />
-      <entry key="MS500" value="1.0000001004705665" />
-      <entry key="S2" value="1.020870415391379" />
-      <entry key="S5" value="1.3042451006173486" />
-      <entry key="S10" value="1.915201553255811" />
-      <entry key="S30" value="4.176296027514904" />
-      <entry key="S60" value="6.514971589178484" />
-      <entry key="M2" value="9.952434462039733" />
-      <entry key="M5" value="16.20341220475165" />
-      <entry key="M10" value="22.048097995545454" />
-      <entry key="M15" value="26.598466719817043" />
-      <entry key="M30" value="36.936636476793645" />
-      <entry key="H1" value="52.03352179208972" />
-      <entry key="H2" value="92.03324317387715" />
-      <entry key="H4" value="177.19085415888475" />
-      <entry key="D1" value="393.0479259566871" />
-      <entry key="W1" value="459.6248633732911" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0001341645804156" />
+      <entry key="S5" value="1.0417572869486937" />
+      <entry key="S10" value="1.287722397840737" />
+      <entry key="S30" value="2.061742532996245" />
+      <entry key="S60" value="2.8234685273386813" />
+      <entry key="M2" value="5.814155978561678" />
+      <entry key="M5" value="17.235189504559926" />
+      <entry key="M10" value="28.665368481001266" />
+      <entry key="M15" value="36.147936592314295" />
+      <entry key="M30" value="58.50687056595191" />
+      <entry key="H1" value="107.7256815551585" />
+      <entry key="H2" value="189.46405147735368" />
+      <entry key="H4" value="310.1676637579013" />
+      <entry key="D1" value="627.0063866749935" />
+      <entry key="W1" value="735.3135928130785" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="7.603342619712552E-19" />
-      <entry key="MS500" value="2.3779401087481466E-4" />
-      <entry key="S2" value="0.1241819109453554" />
-      <entry key="S5" value="0.4397037955746936" />
-      <entry key="S10" value="0.7335415401073869" />
-      <entry key="S30" value="1.291652884204486" />
-      <entry key="S60" value="1.6117487725739408" />
-      <entry key="M2" value="2.062102674986995" />
-      <entry key="M5" value="3.2389938453171556" />
-      <entry key="M10" value="4.458685159193654" />
-      <entry key="M15" value="5.32988432803667" />
-      <entry key="M30" value="7.13189967963376" />
-      <entry key="H1" value="9.23880870349006" />
-      <entry key="H2" value="12.645629549489144" />
-      <entry key="H4" value="18.505531357204998" />
-      <entry key="D1" value="32.76112638026171" />
-      <entry key="W1" value="37.17694926931885" />
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="2.3679834648170458E-116" />
+      <entry key="S2" value="1.2404939954220137E-29" />
+      <entry key="S5" value="2.7383316259180625E-12" />
+      <entry key="S10" value="1.6721281005233862E-6" />
+      <entry key="S30" value="0.014525698841210414" />
+      <entry key="S60" value="0.17036214200042613" />
+      <entry key="M2" value="0.6837968838710047" />
+      <entry key="M5" value="1.9429923564466025" />
+      <entry key="M10" value="3.063221724832015" />
+      <entry key="M15" value="3.7823587842350874" />
+      <entry key="M30" value="5.885354956297057" />
+      <entry key="H1" value="11.040688097195423" />
+      <entry key="H2" value="20.003077881349142" />
+      <entry key="H4" value="31.62615187853016" />
+      <entry key="D1" value="57.25336220940303" />
+      <entry key="W1" value="65.44965026510629" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="3.965087914665642E-9" />
-      <entry key="MS500" value="0.020876259631292988" />
-      <entry key="S2" value="0.40144144597048936" />
-      <entry key="S5" value="1.0285912888130677" />
-      <entry key="S10" value="1.993033089983511" />
-      <entry key="S30" value="5.0603942079417354" />
-      <entry key="S60" value="7.866512618126323" />
-      <entry key="M2" value="11.850396545758407" />
-      <entry key="M5" value="19.349552610035076" />
-      <entry key="M10" value="26.44614297858706" />
-      <entry key="M15" value="31.880260550778043" />
-      <entry key="M30" value="44.035598035210256" />
-      <entry key="H1" value="61.249974241629715" />
-      <entry key="H2" value="104.66195353822438" />
-      <entry key="H4" value="195.68253141963143" />
-      <entry key="D1" value="425.80452129219026" />
-      <entry key="W1" value="496.80106738566184" />
+      <entry key="MS100" value="4.1114305934621915E-5" />
+      <entry key="MS500" value="0.1326779011187244" />
+      <entry key="S2" value="0.603664765982494" />
+      <entry key="S5" value="0.8588034822397045" />
+      <entry key="S10" value="1.1914463754162063" />
+      <entry key="S30" value="2.0394122760330684" />
+      <entry key="S60" value="2.954278402403021" />
+      <entry key="M2" value="6.437051731874208" />
+      <entry key="M5" value="19.105409165151322" />
+      <entry key="M10" value="31.668683393169477" />
+      <entry key="M15" value="39.879496369820956" />
+      <entry key="M30" value="64.35133865710068" />
+      <entry key="H1" value="118.73027924539284" />
+      <entry key="H2" value="209.43651616529047" />
+      <entry key="H4" value="341.7698679556699" />
+      <entry key="D1" value="684.252252429774" />
+      <entry key="W1" value="800.762005306532" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -150,7 +150,8 @@
       <workItem from="1786514826913" duration="7453000" />
       <workItem from="1786538761900" duration="1152000" />
       <workItem from="1786740661348" duration="1610000" />
-      <workItem from="1786980222247" duration="8477000" />
+      <workItem from="1786980222247" duration="8737000" />
+      <workItem from="1787070349224" duration="12909000" />
     </task>
     <task id="LOCAL-00001" summary="Still in strings">
       <option name="closed" value="true" />
@@ -200,7 +201,15 @@
       <option name="project" value="LOCAL" />
       <updated>1786539889229</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Finshed Untill lists in W3Schools">
+      <option name="closed" value="true" />
+      <created>1787002281930</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1787002281930</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -211,13 +220,14 @@
     <MESSAGE value="Still in strings" />
     <MESSAGE value="completed untill operators in the w3 schools in main.py" />
     <MESSAGE value="Added couple kid friendly game and story writer." />
-    <option name="LAST_COMMIT_MESSAGE" value="Added couple kid friendly game and story writer." />
+    <MESSAGE value="Finshed Untill lists in W3Schools" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finshed Untill lists in W3Schools" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/W3python$main.coverage" NAME="main Coverage Results" MODIFIED="1786522521825" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/W3python$animalMadLibs.coverage" NAME="animalMadLibs Coverage Results" MODIFIED="1786539315667" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/W3python$digitalRollerDice.coverage" NAME="digitalRollerDice Coverage Results" MODIFIED="1786538819240" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/W3python$listTuplesSetsDict.coverage" NAME="listTuplesSetsDict Coverage Results" MODIFIED="1787002042738" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/W3python$listTuplesSetsDict.coverage" NAME="listTuplesSetsDict Coverage Results" MODIFIED="1787084361813" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/W3python$mathSpyGame.coverage" NAME="mathSpyGame Coverage Results" MODIFIED="1786539676309" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/W3python$strings.coverage" NAME="strings Coverage Results" MODIFIED="1786515496042" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/W3python$magicArtAdventure.coverage" NAME="magicArtAdventure Coverage Results" MODIFIED="1786539110713" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
