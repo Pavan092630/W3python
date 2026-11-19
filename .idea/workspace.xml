@@ -5,7 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5d4d7c45-8a91-423e-9b84-88fbb2c000b5" name="Changes" comment="Finshed Untill loops in W3Schools">
-      <change afterPath="$PROJECT_DIR$/functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/highLowComputerGame.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modified.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/postgress.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/udemy.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/W3python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/W3python.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -33,66 +38,66 @@
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/Pavan092630/W3python.git&quot;,
-    &quot;accountId&quot;: &quot;31401420-1125-4f53-9b14-5f784fc05ac3&quot;
+    &quot;accountId&quot;: &quot;992461c7-c0d3-4e1b-901c-5934a7da42de&quot;
   }
 }</component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0000006424110301" />
-      <entry key="MS500" value="1.0577514107779264" />
-      <entry key="S2" value="1.4902195753916712" />
-      <entry key="S5" value="1.7518933777256764" />
-      <entry key="S10" value="1.867124481619621" />
-      <entry key="S30" value="1.9724371454140819" />
-      <entry key="S60" value="2.1391810603421457" />
-      <entry key="M2" value="2.8593544924060454" />
-      <entry key="M5" value="5.71469855439484" />
-      <entry key="M10" value="9.09675453467969" />
-      <entry key="M15" value="12.315118978748986" />
-      <entry key="M30" value="23.301824688631932" />
-      <entry key="H1" value="46.173505960099504" />
-      <entry key="H2" value="99.83596518266319" />
-      <entry key="H4" value="218.12823635431928" />
-      <entry key="D1" value="668.4429226997567" />
-      <entry key="W1" value="859.5877402379908" />
+      <entry key="MS100" value="1.0000032012745692" />
+      <entry key="MS500" value="1.1701075286972922" />
+      <entry key="S2" value="2.452860522613619" />
+      <entry key="S5" value="3.243317597038507" />
+      <entry key="S10" value="3.593943693593655" />
+      <entry key="S30" value="3.857969334916608" />
+      <entry key="S60" value="3.9281150963034386" />
+      <entry key="M2" value="3.963837459063211" />
+      <entry key="M5" value="3.9861457098338886" />
+      <entry key="M10" value="4.172676157864467" />
+      <entry key="M15" value="5.314017767617685" />
+      <entry key="M30" value="14.288375040470932" />
+      <entry key="H1" value="33.64404689173996" />
+      <entry key="H2" value="57.42563021750171" />
+      <entry key="H4" value="86.7166852010302" />
+      <entry key="D1" value="493.0186163105798" />
+      <entry key="W1" value="961.3389472087688" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
       <entry key="MS500" value="0.0" />
       <entry key="S2" value="0.0" />
-      <entry key="S5" value="5.80670580054956E-168" />
-      <entry key="S10" value="2.409710729641539E-84" />
-      <entry key="S30" value="1.3406692153064911E-28" />
-      <entry key="S60" value="1.1578757334625121E-14" />
-      <entry key="M2" value="1.0785053609009837E-7" />
-      <entry key="M5" value="0.0018638654502695852" />
-      <entry key="M10" value="0.06915281776564895" />
-      <entry key="M15" value="0.2800121883922018" />
-      <entry key="M30" value="1.3571187791769945" />
-      <entry key="H1" value="3.464456814587225" />
-      <entry key="H2" value="8.065061864576935" />
-      <entry key="H4" value="18.640329689733694" />
-      <entry key="D1" value="56.609568781983214" />
-      <entry key="W1" value="71.94997211605798" />
+      <entry key="S5" value="2.366723760968198E-288" />
+      <entry key="S10" value="1.5384159908727258E-144" />
+      <entry key="S30" value="1.1546414312471185E-48" />
+      <entry key="S60" value="1.102246537073203E-24" />
+      <entry key="M2" value="1.3572454889079778E-12" />
+      <entry key="M5" value="4.026162106747568E-5" />
+      <entry key="M10" value="0.014736905183563707" />
+      <entry key="M15" value="0.10786752076191582" />
+      <entry key="M30" value="0.7994555947920836" />
+      <entry key="H1" value="2.205235405318002" />
+      <entry key="H2" value="3.8616789618363003" />
+      <entry key="H4" value="5.891143301269812" />
+      <entry key="D1" value="38.37427017884453" />
+      <entry key="W1" value="76.13909896558815" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.9526386016037146" />
-      <entry key="MS500" value="1.0473782149669904" />
-      <entry key="S2" value="1.4862698084698571" />
-      <entry key="S5" value="1.7499859163506135" />
-      <entry key="S10" value="1.8660986236597754" />
-      <entry key="S30" value="1.9720723680860617" />
-      <entry key="S60" value="2.1389791086698846" />
-      <entry key="M2" value="2.8592174964790154" />
-      <entry key="M5" value="5.71606434541901" />
-      <entry key="M10" value="9.162238013675132" />
-      <entry key="M15" value="12.587469036860634" />
-      <entry key="M30" value="24.643751294615782" />
-      <entry key="H1" value="49.619708757145055" />
-      <entry key="H2" value="107.88205259894069" />
-      <entry key="H4" value="236.74964339255573" />
-      <entry key="D1" value="725.0439710639109" />
-      <entry key="W1" value="931.5361838344784" />
+      <entry key="MS100" value="0.49311940620781614" />
+      <entry key="MS500" value="1.0348801250875526" />
+      <entry key="S2" value="2.409212892760581" />
+      <entry key="S5" value="3.223531861142416" />
+      <entry key="S10" value="3.583529943349993" />
+      <entry key="S30" value="3.8543666257108944" />
+      <entry key="S60" value="3.9262962272559876" />
+      <entry key="M2" value="3.9629235607066473" />
+      <entry key="M5" value="3.9858149799906415" />
+      <entry key="M10" value="4.186775076961187" />
+      <entry key="M15" value="5.419603118768589" />
+      <entry key="M30" value="15.079302806982021" />
+      <entry key="H1" value="35.83692633624519" />
+      <entry key="H2" value="61.2761716749653" />
+      <entry key="H4" value="92.59937478837259" />
+      <entry key="D1" value="531.3862014909488" />
+      <entry key="W1" value="1037.4762717412323" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -104,41 +109,77 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python.animalMadLibs.executor&quot;: &quot;Run&quot;,
-    &quot;Python.digitalRollerDice.executor&quot;: &quot;Run&quot;,
-    &quot;Python.functions.executor&quot;: &quot;Run&quot;,
-    &quot;Python.jarvis.executor&quot;: &quot;Run&quot;,
-    &quot;Python.listTuplesSetsDict.executor&quot;: &quot;Run&quot;,
-    &quot;Python.loops.executor&quot;: &quot;Run&quot;,
-    &quot;Python.magicArtAdventure.executor&quot;: &quot;Run&quot;,
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;Python.mathSpyGame.executor&quot;: &quot;Run&quot;,
-    &quot;Python.strings.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
-    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.animalMadLibs.executor": "Run",
+    "Python.digitalRollerDice.executor": "Run",
+    "Python.functions.executor": "Run",
+    "Python.highLowComputerGame.executor": "Run",
+    "Python.jarvis.executor": "Run",
+    "Python.listTuplesSetsDict.executor": "Run",
+    "Python.loops.executor": "Run",
+    "Python.magicArtAdventure.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.mathSpyGame.executor": "Run",
+    "Python.modified.executor": "Run",
+    "Python.postgress.executor": "Run",
+    "Python.strings.executor": "Run",
+    "Python.udemy.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "junie.onboarding.icon.badge.shown": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "to.speed.mode.migration.done": "true"
   }
-}</component>
+}]]></component>
+  <component name="RunManager">
+    <configuration name="postgress" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="W3python" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/postgress.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.postgress" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-6fa658e1df1a-5bd6d13a2a75-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-262.8665.369" />
+        <option value="bundled-python-sdk-821f704e66d9-5bd6d13a2a75-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-262.9437.214" />
       </set>
     </attachedChunks>
   </component>
@@ -157,6 +198,11 @@
       <workItem from="1787070349224" duration="13068000" />
       <workItem from="1787105524182" duration="7235000" />
       <workItem from="1787280836607" duration="6255000" />
+      <workItem from="1788478840932" duration="250000" />
+      <workItem from="1788481459927" duration="2355000" />
+      <workItem from="1788625838906" duration="118000" />
+      <workItem from="1790042150523" duration="7691000" />
+      <workItem from="1795029618211" duration="10000" />
     </task>
     <task id="LOCAL-00001" summary="Still in strings">
       <option name="closed" value="true" />
@@ -247,15 +293,17 @@
     <option name="LAST_COMMIT_MESSAGE" value="Finshed Untill loops in W3Schools" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/W3python$main.coverage" NAME="main Coverage Results" MODIFIED="1786522521825" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/W3python$animalMadLibs.coverage" NAME="animalMadLibs Coverage Results" MODIFIED="1786539315667" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/W3python$digitalRollerDice.coverage" NAME="digitalRollerDice Coverage Results" MODIFIED="1786538819240" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/W3python$listTuplesSetsDict.coverage" NAME="listTuplesSetsDict Coverage Results" MODIFIED="1787084361813" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/W3python$jarvis.coverage" NAME="jarvis Coverage Results" MODIFIED="1787110523602" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/W3python$mathSpyGame.coverage" NAME="mathSpyGame Coverage Results" MODIFIED="1786539676309" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/W3python$functions.coverage" NAME="functions Coverage Results" MODIFIED="1787286606574" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/W3python$postgress.coverage" NAME="postgress Coverage Results" MODIFIED="1790104368726" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/W3python$main.coverage" NAME="main Coverage Results" MODIFIED="1788478882777" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/W3python$listTuplesSetsDict.coverage" NAME="listTuplesSetsDict Coverage Results" MODIFIED="1787084361813" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/W3python$animalMadLibs.coverage" NAME="animalMadLibs Coverage Results" MODIFIED="1786539315667" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/W3python$jarvis.coverage" NAME="jarvis Coverage Results" MODIFIED="1787110523602" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/W3python$modified.coverage" NAME="modified Coverage Results" MODIFIED="1790123782742" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/W3python$digitalRollerDice.coverage" NAME="digitalRollerDice Coverage Results" MODIFIED="1786538819240" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/W3python$magicArtAdventure.coverage" NAME="magicArtAdventure Coverage Results" MODIFIED="1786539110713" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/W3python$loops.coverage" NAME="loops Coverage Results" MODIFIED="1787113282746" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/W3python$strings.coverage" NAME="strings Coverage Results" MODIFIED="1786515496042" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/W3python$magicArtAdventure.coverage" NAME="magicArtAdventure Coverage Results" MODIFIED="1786539110713" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
