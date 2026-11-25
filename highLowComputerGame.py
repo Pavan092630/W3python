@@ -9,6 +9,12 @@ while True:
     if high == low:
         print("I am sure {} is your number and i guessed in {} guesses".format(low, guesses))
         break
+    #3123
+    #
+    #
+    #
+    #
+    #
     #print("Guess between {} and {}".format(low, high))
     print("My guess is  {}".format(guess))
     answer = input("Enter h for higher, l for lower, c for correct").casefold()
